@@ -1,5 +1,5 @@
 # Pulse Pursuit
-This is a project with SUTD 50.002 where we set out to build a game using FPGA.
+This is a project with SUTD 50.002 where we set out to build a game using FPGA. Watch the video ![here](https://www.youtube.com/watch?v=6tsm4qkcwFQ)
 
 ## FSM and Datapath
 ![Datapath](./sources/CompStruct%20Datapath(3).png)
